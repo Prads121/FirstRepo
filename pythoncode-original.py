@@ -6,4 +6,4 @@ if i == 1:
 else:
     print("\n1 was the first print")
 print("\njust made a change")
-print(end=' ')
+
